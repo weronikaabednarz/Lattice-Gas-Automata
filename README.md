@@ -1,6 +1,6 @@
 # Lattice Gas Automata
 
-Imitation of the movement of gas molecules.
+Imitation of the movement of substance molecules.
 
 Project description:
 
